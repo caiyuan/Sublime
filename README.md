@@ -7,8 +7,8 @@
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Monokai.sublime-color-scheme",
 
-	"font_face": "HarmonyOS Sans SC",
-	"font_size": 15,
+	"font_face": "",
+	"font_size": 13,
 	"font_options": ["gray_antialias", "no_round"],
 
 	"word_wrap": false,
