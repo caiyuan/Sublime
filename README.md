@@ -11,7 +11,7 @@
 	"font_size": 13,
 	"font_options": ["gray_antialias", "no_round"],
 
-	"word_wrap": false,
+	"word_wrap": "auto",
 
 	// These settings control the size of the caret
 	"caret_extra_top": 1,
