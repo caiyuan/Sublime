@@ -8,10 +8,10 @@
 	"color_scheme": "Monokai.sublime-color-scheme",
 
 	"font_face": "",
-	"font_size": 13,
+	"font_size": 12,
 	"font_options": ["gray_antialias", "no_round"],
 
-	"word_wrap": "auto",
+	"word_wrap": false,
 
 	// These settings control the size of the caret
 	"caret_extra_top": 1,
